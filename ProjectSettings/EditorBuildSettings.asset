@@ -15,6 +15,9 @@ EditorBuildSettings:
     path: Assets/Scenes/Level_2_Slide.unity
     guid: 94a52028f158242bd94a54a6cccd7b7c
   - enabled: 1
+    path: Assets/Scenes/Level_3_WallRun.unity
+    guid: e8684baea6fad4016b3c826dba194680
+  - enabled: 1
     path: Assets/Scenes/Level_4_Rope.unity
     guid: 1aa4a89373a154add88a17a1609f8531
   - enabled: 1
